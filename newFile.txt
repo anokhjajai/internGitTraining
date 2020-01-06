@@ -1,2 +1,3 @@
 anokh 
-this is a training in git for interns
+this is a training in git for inteRNS
+GOOD AFTERNOON
